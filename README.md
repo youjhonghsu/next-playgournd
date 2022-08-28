@@ -1,2 +1,1 @@
-# next-playgournd
-Created with CodeSandbox
+# Next.js example
